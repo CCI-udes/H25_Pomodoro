@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Settings>
+    <Version>1.1</Version>
+    <Affect>Document</Affect>
+  </Settings>
+  <Config />
+  <Documents>
+    <DocumentConfig>
+      <Name>C3I.SchDoc</Name>
+      <Id>QDBSXBNH</Id>
+      <Config />
+      <Results />
+    </DocumentConfig>
+  </Documents>
+  <Results />
+</ProjectConfig>
